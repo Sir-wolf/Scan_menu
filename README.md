@@ -1,6 +1,7 @@
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hackingloops.com%2Fwp-content%2Fuploads%2F2016%2F06%2Farp-1.png&f=1&nofb=1)
+![](https://media0.giphy.com/media/fW4wo8kyWWXGNjEUpO/giphy.gif)
 # Scan_menu
 the hacking menu to help beginners learn and understand hacking. The packages should install on their own if not yet installed.
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hackingloops.com%2Fwp-content%2Fuploads%2F2016%2F06%2Farp-1.png&f=1&nofb=1)
 ### Installation
 ```bash
 $ cd Scan_menu
